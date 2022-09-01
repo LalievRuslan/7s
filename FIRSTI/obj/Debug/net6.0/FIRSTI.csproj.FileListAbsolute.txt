@@ -1,0 +1,15 @@
+C:\Users\Руслан\Desktop\Seminar7\FIRSTI\bin\Debug\net6.0\FIRSTI.exe
+C:\Users\Руслан\Desktop\Seminar7\FIRSTI\bin\Debug\net6.0\FIRSTI.deps.json
+C:\Users\Руслан\Desktop\Seminar7\FIRSTI\bin\Debug\net6.0\FIRSTI.runtimeconfig.json
+C:\Users\Руслан\Desktop\Seminar7\FIRSTI\bin\Debug\net6.0\FIRSTI.dll
+C:\Users\Руслан\Desktop\Seminar7\FIRSTI\bin\Debug\net6.0\FIRSTI.pdb
+C:\Users\Руслан\Desktop\Seminar7\FIRSTI\obj\Debug\net6.0\FIRSTI.csproj.AssemblyReference.cache
+C:\Users\Руслан\Desktop\Seminar7\FIRSTI\obj\Debug\net6.0\FIRSTI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Руслан\Desktop\Seminar7\FIRSTI\obj\Debug\net6.0\FIRSTI.AssemblyInfoInputs.cache
+C:\Users\Руслан\Desktop\Seminar7\FIRSTI\obj\Debug\net6.0\FIRSTI.AssemblyInfo.cs
+C:\Users\Руслан\Desktop\Seminar7\FIRSTI\obj\Debug\net6.0\FIRSTI.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\Desktop\Seminar7\FIRSTI\obj\Debug\net6.0\FIRSTI.dll
+C:\Users\Руслан\Desktop\Seminar7\FIRSTI\obj\Debug\net6.0\refint\FIRSTI.dll
+C:\Users\Руслан\Desktop\Seminar7\FIRSTI\obj\Debug\net6.0\FIRSTI.pdb
+C:\Users\Руслан\Desktop\Seminar7\FIRSTI\obj\Debug\net6.0\FIRSTI.genruntimeconfig.cache
+C:\Users\Руслан\Desktop\Seminar7\FIRSTI\obj\Debug\net6.0\ref\FIRSTI.dll
